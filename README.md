@@ -1,4 +1,4 @@
-# DEMO
+# Demo
 
 
-Some description.
+Some description!
